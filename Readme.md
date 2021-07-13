@@ -10,9 +10,11 @@ This repo is a setup for a combination of the popular tech stack. So you can sim
 - Typescript
 - ESLint
 - Prettier
+- Jest
+- React-Testing-Library
 
 ## Current templates
 
-### Default
+### [Default](https://github.com/Albert-Gao/React-Modern-Templates/tree/master/default)
 
 - CSS
