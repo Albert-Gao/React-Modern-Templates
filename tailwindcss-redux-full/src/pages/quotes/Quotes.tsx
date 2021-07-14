@@ -1,10 +1,10 @@
 import { animeQuotesAPI } from '~/apis'
 
 export const Quotes = () => {
-  const { isLoading, isSuccess, data, refetch } =
+  const { isFetching, isSuccess, data, refetch } =
     animeQuotesAPI.useGetAnimeQuotesQuery()
 
-  if (isLoading) {
+  if (isFetching) {
     return <span>Loading...</span>
   }
 
