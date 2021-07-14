@@ -7,7 +7,7 @@ export const NavBar = () => {
       <Link style={{ padding: '8px' }} to={PATHS.Home}>
         Home
       </Link>
-      <Link style={{ padding: '8px' }} to={PATHS.USERS}>
+      <Link style={{ padding: '8px' }} to={PATHS.QUOTES}>
         Users
       </Link>
     </nav>

@@ -1,5 +1,4 @@
-import { Button, Text } from '@chakra-ui/react'
-import { NavBar } from '~/components/NavBar'
+import { Button } from '@chakra-ui/react'
 import { useCounterState } from '~/state'
 
 export const Home = () => {
@@ -8,14 +7,10 @@ export const Home = () => {
 
   return (
     <>
-      <NavBar />
-      <Text>Home Page</Text>
+      <div>Home Page</div>
 
       <span>{counter}</span>
       <Button
-        p={2}
-        m={1}
-        colorScheme="teal"
         onClick={() => {
           increment(2)
         }}
