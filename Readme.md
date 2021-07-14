@@ -31,8 +31,9 @@ This repo is a setup for a combination of the popular tech stack. So you can sim
 - Tailwind CSS
 - Redux
 
-### [Tailwind CSS Full](https://github.com/Albert-Gao/React-Modern-Templates/tree/master/tailwindcss-redux)
+### [Tailwind CSS Full](https://github.com/Albert-Gao/React-Modern-Templates/tree/master/tailwindcss-full)
 
 - Tailwind CSS
 - Zustand (with auto selectors generation)
-- React router v6
+- react-router v6
+- react-query

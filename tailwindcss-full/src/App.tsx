@@ -1,8 +1,12 @@
-import React from 'react'
-import { AppRoutes } from './routes/routes'
+import { Providers } from '~/components/Providers'
+import { AppRoutes } from '~/routes/routes'
 
 function App() {
-  return <AppRoutes />
+  return (
+    <Providers>
+      <AppRoutes />
+    </Providers>
+  )
 }
 
 export default App
