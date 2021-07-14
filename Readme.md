@@ -8,7 +8,7 @@ This repo is a setup for a combination of the popular tech stack. So you can sim
 
 - Vite
 - Typescript
-- ESLint
+- ESLint (AirBnB + React + React Hooks)
 - Prettier
 - Jest
 - React-Testing-Library
@@ -38,6 +38,13 @@ This repo is a setup for a combination of the popular tech stack. So you can sim
 ### [Tailwind CSS Full](https://github.com/Albert-Gao/React-Modern-Templates/tree/master/tailwindcss-full)
 
 - Tailwind CSS
+- Zustand (with auto selectors generation)
+- react-router v6
+- react-query
+
+### [Chakara Full](https://github.com/Albert-Gao/React-Modern-Templates/tree/master/chakara-full)
+
+- [Chakara UI](https://chakra-ui.com)
 - Zustand (with auto selectors generation)
 - react-router v6
 - react-query
