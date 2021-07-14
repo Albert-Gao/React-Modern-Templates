@@ -15,6 +15,8 @@ This repo is a setup for a combination of the popular tech stack. So you can sim
 - React Hot module reloading
 - new React JSX transform (no need to import React)
 - Absolute import ( `import {A} from '~/components/A'` )
+- Debug configuration for VSC
+- Install this [VSC Extension](https://marketplace.visualstudio.com/items?itemName=antfu.vite) for working in VSC completely
 
 ## Current templates
 

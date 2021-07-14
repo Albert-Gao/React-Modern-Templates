@@ -12,11 +12,12 @@ export const Home = () => {
 
       <span>{counter}</span>
       <button
+        className="p-2 m-1 bg-indigo-100 rounded"
         onClick={() => {
           increment(2)
         }}
       >
-        Increment
+        Increment!
       </button>
     </>
   )
