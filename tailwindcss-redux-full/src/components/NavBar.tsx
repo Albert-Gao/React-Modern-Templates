@@ -7,8 +7,8 @@ export const NavBar = () => {
       <Link className="p-3" to={PATHS.Home}>
         Home
       </Link>
-      <Link className="p-3" to={PATHS.USERS}>
-        Users
+      <Link className="p-3" to={PATHS.QUOTES}>
+        Quotes
       </Link>
     </nav>
   )

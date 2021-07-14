@@ -47,7 +47,7 @@ This repo is a setup for a combination of the popular tech stack. So you can sim
 
 - Tailwind CSS
 - Redux
-- Redux Toolkit
+- Redux Toolkit (with RTK Query)
 - react-router v6
 - react-query
 
