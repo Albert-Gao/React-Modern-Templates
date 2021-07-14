@@ -6,6 +6,6 @@ describe('Test <App/>', () => {
   it('should render', () => {
     render(<App />)
 
-    expect(screen.getByText('Hello Tailwind template!')).toBeInTheDocument()
+    expect(screen.getByText('Home Page')).toBeInTheDocument()
   })
 })
