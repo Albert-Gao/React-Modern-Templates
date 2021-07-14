@@ -19,6 +19,11 @@ This repo is a setup for a combination of the popular tech stack. So you can sim
 
 - CSS
 
-### [Default](https://github.com/Albert-Gao/React-Modern-Templates/tree/master/tailwindcss)
+### [Tailwind CSS](https://github.com/Albert-Gao/React-Modern-Templates/tree/master/tailwindcss)
 
 - Tailwind CSS
+
+### [Tailwind CSS + Redux](https://github.com/Albert-Gao/React-Modern-Templates/tree/master/tailwindcss-redux)
+
+- Tailwind CSS
+- Redux
