@@ -15,8 +15,10 @@ This repo is a setup for a combination of the popular tech stack. So you can sim
 - React Hot module reloading
 - new React JSX transform (no need to import React)
 - Absolute import ( `import {A} from '~/components/A'` )
-- Debug configuration for VSC
-- Install this [VSC Extension](https://marketplace.visualstudio.com/items?itemName=antfu.vite) for working in VSC completely
+- VSCode special:
+  - Debug configuration for VSC
+  - Install [Vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite) for working in VSC completely
+  - Intall [Jest Run It](https://marketplace.visualstudio.com/items?itemName=vespa-dev-works.jestRunIt) for running/debugging every tests in an isolated manner in VSCode
 
 ## Current templates
 
