@@ -1,4 +1,3 @@
-import { NavBar } from '~/components/NavBar'
 import { useCounterState } from '~/state'
 
 export const Home = () => {
@@ -7,7 +6,6 @@ export const Home = () => {
 
   return (
     <>
-      <NavBar />
       <div>Home Page</div>
 
       <span>{counter}</span>
